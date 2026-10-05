@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      7.1
 // @description  CostLabortrack w/ autosite detect, shared settings, adoption log + single-view dropdown
-// @author       varshxk & ewiernik
+// @author       varshxk
 // @match        https://na.store-management.f3.amazon.dev/labortracking/drilldown*
 // @grant        GM_addStyle
 // @grant        GM_getValue
@@ -12,8 +12,10 @@
 // @connect      hooks.slack.com
 // @connect      api.github.com
 // @connect      gist.githubusercontent.com
-// @updateURL    https://gist.github.com/ewiernik/Punch-IN-Tracker/raw/costcut-tracker.user.js
-// @downloadURL  https://gist.github.com/ewiernik/Punch-IN-Tracker/raw/costcut-tracker.user.js
+// @connect      github.com
+// @connect      raw.githubusercontent.com
+// @updateURL    https://github.com/ewiernik/Punch-IN-Tracker/raw/refs/heads/main/costcut-tracker.user.js
+// @downloadURL  https://github.com/ewiernik/Punch-IN-Tracker/raw/refs/heads/main/costcut-tracker.user.js
 // @run-at       document-idle
 // ==/UserScript==
 

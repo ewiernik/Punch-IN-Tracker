@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Cost Cut Tracking
 // @namespace    http://tampermonkey.net/
-// @version      7.1
+// @version      7.11
 // @description  CostLabortrack w/ autosite detect, shared settings, adoption log + single-view dropdown
 // @author       varshxk
 // @match        https://na.store-management.f3.amazon.dev/labortracking/drilldown*
